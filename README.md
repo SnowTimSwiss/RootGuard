@@ -1,2 +1,2 @@
 # RootGuard
-Modern, easy to use app lock software for Linux
+Modern, easy to use app locking software for Linux
